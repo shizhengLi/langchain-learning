@@ -2,9 +2,6 @@
 
 <div align="center">
 **从基础到进阶的完整 RAG 系统学习指南**
-  </div>
-
-
 
 ---
 
@@ -323,6 +320,7 @@ pytest test_integration.py -v -m integration
 ---
 
 <div align="center">
+
 **🎯 这是最全面的RAG技术学习资源！**
 
 **📚 从入门到精通，从理论到实践**
