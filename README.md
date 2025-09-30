@@ -1,14 +1,20 @@
 # 🦜⛓️ LangChain RAG 学习项目
 
-<div align="center">
+<p align="center">
+  <strong>从基础到进阶的完整 RAG 系统学习指南</strong>
+</p>
 
-**从基础到进阶的完整 RAG 系统学习指南**
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![LangChain](https://img.shields.io/badge/LangChain-0.1.0+-green.svg)](https://python.langchain.com/)
-
-</div>
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  </a>
+  <a href="https://www.python.org/downloads/">
+    <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python 3.8+">
+  </a>
+  <a href="https://python.langchain.com/">
+    <img src="https://img.shields.io/badge/LangChain-0.1.0+-green.svg" alt="LangChain">
+  </a>
+</p>
 
 ---
 
@@ -326,16 +332,14 @@ pytest test_integration.py -v -m integration
 
 ---
 
-<div align="center">
+<p align="center">
 
-**🎯 这是最全面的RAG技术学习资源！**
+**🎯 这是最全面的RAG技术学习资源！**<br>
+**📚 从入门到精通，从理论到实践**<br>
+**🚀 涵盖基础、进阶、高级、前沿的完整技术栈**<br><br>
 
-**📚 从入门到精通，从理论到实践**
-
-**🚀 涵盖基础、进阶、高级、前沿的完整技术栈**
-
-**⭐ 如果这个项目对你有帮助，请给我们一个 Star！**
+**⭐ 如果这个项目对你有帮助，请给我们一个 Star！**<br><br>
 
 Made with ❤️ by LangChain Learning Team
 
-</div>
+</p>
