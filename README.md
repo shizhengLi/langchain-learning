@@ -1,7 +1,14 @@
 # 🦜⛓️ LangChain RAG 学习项目
 
 <div align="center">
+
 **从基础到进阶的完整 RAG 系统学习指南**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![LangChain](https://img.shields.io/badge/LangChain-0.1.0+-green.svg)](https://python.langchain.com/)
+
+</div>
 
 ---
 
@@ -326,8 +333,6 @@ pytest test_integration.py -v -m integration
 **📚 从入门到精通，从理论到实践**
 
 **🚀 涵盖基础、进阶、高级、前沿的完整技术栈**
-
-
 
 **⭐ 如果这个项目对你有帮助，请给我们一个 Star！**
 
